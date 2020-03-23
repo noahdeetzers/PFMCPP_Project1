@@ -83,7 +83,7 @@ musician.drinksBeer();
 musician.showsUpLate();
 //  action 3: he plays the wrong notes
 musician.playsWrongNotes();
- 
+
 //  4)
 //  Noun: cat
 //  action 1: The cat drinks milk
