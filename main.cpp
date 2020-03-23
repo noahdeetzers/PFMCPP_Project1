@@ -58,84 +58,93 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: cow
+//  action 1: The cow grabs grass
+cow.grabsGrass();
+//  action 2: The cow chews the grass
+cow.chewsGrass();
+//  action 3: The cow poops grass
+cow.poopsGrass();
  
 //  2)
-//  Noun:
-//  action 1:
+//  Noun: Tree
+//  action 1: It grows branches
+tree.growsBranches();
+//  action 2: It loses its leaves
+tree.losesLeaves();
+//  action 3: It dies
+tree.dies();
 
-//  action 2:
-
-//  action 3:
- 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: musician
+//  action 1: The musician drinks beer
+musician.drinksBeer();
+//  action 2: the musiscian shows up late
+musician.showsUpLate();
+//  action 3: he plays the wrong notes
+musician.playsWrongNotes();
 
-//  action 2:
-
-//  action 3:
- 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: cat
+//  action 1: The cat drinks milk
+cat.drinksMilk();
+//  action 2: The cat claws the human
+cat.clawsHuman();
+//  action 3: The cat eats catnip
+cat.eatsCatnip();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: porkupine
+//  action 1: The porkupine grows spikes
+porkupine.growsSpikes();
+//  action 2: The porkupine pricks the human
+porkupine.pricksHuman();
+//  action 3: The porkupine eats the strawberry
+porkupine.eatsStrawberry();
  
 //  6)
-//  Noun:
-//  action 1:
+//  Noun: child
+//  action 1: The child plays with a ball
+child.playsWithBall();
+//  action 2: The child spills food
+child.spillsFood();
+//  action 3: The child smiles
+child.smiles();
 
-//  action 2:
-
-//  action 3:
- 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: pilot
+//  action 1: The pilot starts up the plane
+pilot.startsPlane();
+//  action 2: The pilot flies the plane
+pilot.fliesPlane();
+//  action 3: The pilot crashes the plane
+pilot.crashesPlane();
 
-//  action 2:
-
-//  action 3:
- 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: washingMachine
+//  action 1: It washes clothes
+washingMachine.washesClothes();
+//  action 2: It dispenses soap
+washingMachine.dispensesClothes();
+//  action 3: The washing machine bleaches the clothes
+washingMachine.bleachesClothes();
 
-//  action 2:
-
-//  action 3:
+//  9) 
+//  Noun: chef
+//  action 1: The chef makes the ramen
+chef.makesRamen();
+//  action 2: The chef cuts his finger
+chef.cutsFinger();
+//  action 3: the chef chops the carrots
+chef.chopsCarrots();
  
-//  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
-//  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  10) 
+//  Noun: Server
+//  action 1: The server serves the meal
+server.servesMeal();
+//  action 2: The server counts the tip
+server.countsTip();
+//  action 3: The server thanks the guest
+server.thanksGuest();
  
 
 
